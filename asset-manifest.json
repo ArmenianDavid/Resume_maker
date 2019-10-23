@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Resume_maker/static/css/main.7ce3c17c.chunk.css",
+    "main.js": "/Resume_maker/static/js/main.367e62df.chunk.js",
+    "main.js.map": "/Resume_maker/static/js/main.367e62df.chunk.js.map",
+    "runtime-main.js": "/Resume_maker/static/js/runtime-main.01fc00bc.js",
+    "runtime-main.js.map": "/Resume_maker/static/js/runtime-main.01fc00bc.js.map",
+    "static/js/2.97ec7bc0.chunk.js": "/Resume_maker/static/js/2.97ec7bc0.chunk.js",
+    "static/js/2.97ec7bc0.chunk.js.map": "/Resume_maker/static/js/2.97ec7bc0.chunk.js.map",
+    "index.html": "/Resume_maker/index.html",
+    "precache-manifest.0f9e51f79d6d3d9565e196b01167903f.js": "/Resume_maker/precache-manifest.0f9e51f79d6d3d9565e196b01167903f.js",
+    "service-worker.js": "/Resume_maker/service-worker.js",
+    "static/css/main.7ce3c17c.chunk.css.map": "/Resume_maker/static/css/main.7ce3c17c.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.01fc00bc.js",
+    "static/js/2.97ec7bc0.chunk.js",
+    "static/css/main.7ce3c17c.chunk.css",
+    "static/js/main.367e62df.chunk.js"
+  ]
+}
